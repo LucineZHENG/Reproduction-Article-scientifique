@@ -9,8 +9,7 @@ Ce dépôt contient la **reproduction et l'analyse** d'un article scientifique s
 ### Contexte académique
 
 - **Type** : Projet de présentation d'article (25 minutes)
-- **Format** : Binôme ou individuel
-- **Objectif** : Comprendre, reproduire et valider les résultats de l'article original
+- **Objectif** : Comprendre et reproduire les résultats de l'article original
 
 ### Article reproduit
 
